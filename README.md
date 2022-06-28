@@ -21,3 +21,9 @@
 - Azure VM - Web App
 - Azure App Service
 - Azure Managed Identity
+
+## Labs - Day 2
+
+- Azure API Management
+- Azure Application Gateway
+- Azure Front Door
